@@ -22,11 +22,18 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
+        -Designing your website for people with disabilities, or different software, devices, or even locations.
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+        -Contrasting colors between the foreground, the background, and the text, can help people who are blind, but also people with cognitive and comprehension disabilities.
+        -Making sure interactive elements, such as links, are easy to identify. They can have a border or highlight, and/or even and underline and bold text!
+        -Use headings and spacing to group related content. It not only reduces clutter and follows graphic design rules(one of my degrees) but it also helps those with disabilities such as learning disabilities, comprehension, etc, to be able to clearly see what the relationships are on the page, so that the messages are clear
 3. How would you explain the concept of a variable to someone new to programming?
+        -A variable is a storage container for data that can be changed later. The default value of variables is undefined but can be defined using the "=" operator when it is declared.
 4. What is the purpose of using functions in code?
+        -A statement, or set of statements that performs a task or calculates a value. In order for a procedure to qualify as a function, it should take some input and return an output where there is a relationship between the input and the output.
 5. How do you access a key inside of an object inside of an array?
+        -object['key'] if there are spaces, object.key if there are not spaces
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
